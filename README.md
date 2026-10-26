@@ -1,3 +1,5 @@
+<img src="goose.png" alt="Goose Gods" width="200">
+
 # StripeEvent
 
 [![Build Status](https://github.com/integrallis/stripe_event/workflows/CI/badge.svg)](https://github.com/integrallis/stripe_event/actions?query=workflow%3ACI)
